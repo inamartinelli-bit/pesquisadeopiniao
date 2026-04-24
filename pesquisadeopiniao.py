@@ -18,9 +18,10 @@ for i in range(1, 50 + 1):
      
      if pesquisa == 1:
         qtd_excelente += 1 
+          
      elif pesquisa == 3:
           qtd_ruim += 1 
 # Saída
 print("\nAVALIAÇÕES: ")
 print("Quantidade de respostas EXCELENTE: ", qtd_excelente)
-print("Quantidade de respostas RUIM: ", qtd_ruim) #Fim do programa 
+print("Quantidade de respostas RUIM: ", qtd_ruim) # Fim do programa 
