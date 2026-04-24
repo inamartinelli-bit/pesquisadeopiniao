@@ -21,7 +21,7 @@ for i in range(1, 50 + 1):
           
      elif pesquisa == 3:
           qtd_ruim += 1 
-# Saída
+          # Saída
 print("\nAVALIAÇÕES: ")
 print("Quantidade de respostas EXCELENTE: ", qtd_excelente)
 print("Quantidade de respostas RUIM: ", qtd_ruim) # Fim do programa 
