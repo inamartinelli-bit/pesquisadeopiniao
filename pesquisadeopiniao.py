@@ -9,7 +9,7 @@ qtd_excelente = 0
 qtd_ruim = 0
 
 # Processamento
-for i in range(1, 49 + 1):
+for i in range(1, 50 + 1):
      nome = input("\nPor favor, digite o seu nome: ")
      idade = int(input("Qual a sua idade? "))
      pesquisa = int(input("Qual a sua opinião sobre o nosso atendimento? Insira: 1 para EXCELENTE | 2 para BOM | 3 para RUIM: "))
